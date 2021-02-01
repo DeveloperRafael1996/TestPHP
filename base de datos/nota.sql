@@ -5,7 +5,7 @@
 -- Servidor: 127.0.0.1
 -- Tiempo de generación: 11-03-2020 a las 01:56:46
 -- Versión del servidor: 10.4.6-MariaDB
--- Versión de PHP: 7.3.9
+-- Versión de PHP: 7.3.9 - Prueba
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
