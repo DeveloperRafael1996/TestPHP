@@ -42,7 +42,7 @@ CREATE TABLE `alumno` (
 --
 
 INSERT INTO `alumno` (`id_alumno`, `ap_paterno`, `ap_materno`, `nombre`, `ex_parcial`, `ex_final`) VALUES
-(3, 'Navarro', 'Castro', 'Michelle', 15, 10),
+(3, 'Rafael', 'Guevara', 'Aller', 15, 10),
 (4, 'Casillas', 'Manrique', 'Manuel', 13, 17),
 (6, 'Gomez', 'Pelayo', 'Roy', 16, 19);
 
@@ -64,7 +64,7 @@ CREATE TABLE `t_usuario` (
 --
 
 INSERT INTO `t_usuario` (`id_usuario`, `nombre_usu`, `password_usu`, `estado`) VALUES
-(1, 'roy', '123', b'0'),
+(1, 'rguevara', '123', b'0'),
 (2, 'angel', '456', b'0');
 
 --
