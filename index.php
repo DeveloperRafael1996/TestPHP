@@ -8,7 +8,7 @@
 		$alumnos = $sentencia->fetchAll(PDO::FETCH_OBJ);
 		//print_r($alumnos);
 	}else{
-		echo "Error en el sistema";
+		echo "Error en el sistema de asistencia";
 	}
 
 

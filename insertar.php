@@ -17,6 +17,6 @@
 		//echo "Insertado correctamente";
 		header('Location: index.php');
 	}else{
-		echo "Error";
+		echo "Error de conexion";
 	}
 ?>
