@@ -10,9 +10,6 @@
 	}else{
 		echo "Error en el sistema";
 	}
-
-
-	
 ?>
 
 <!DOCTYPE html>
