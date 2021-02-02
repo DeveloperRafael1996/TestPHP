@@ -10,9 +10,6 @@
 	}else{
 		echo "Error en el sistema de asistencia";
 	}
-
-
-	
 ?>
 
 <!DOCTYPE html>
