@@ -11,7 +11,6 @@
 		echo "Error en el sistema de asistencia";
 	}
 ?>
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -35,7 +34,6 @@
 				<td>Editar</td>
 				<td>Eliminar</td>
 			</tr>
-
 			<?php 
 				foreach ($alumnos as $dato) {
 					?>
@@ -89,7 +87,6 @@
 			</table>
 		</form>
 		<!-- fin insert-->
-
 	</center>
 </body>
 </html>
